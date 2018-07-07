@@ -4,6 +4,19 @@
    <FileRef
       location = "group:Smack.xcodeproj">
    </FileRef>
+   <Group
+      location = "group:Supporting Files"
+      name = "Supporting Files">
+      <FileRef
+         location = "group:Supporting Files/SWRevealViewController.h">
+      </FileRef>
+      <FileRef
+         location = "group:Supporting Files/SWRevealViewController.m">
+      </FileRef>
+      <FileRef
+         location = "group:Supporting Files/Smack-Bridging-Header.h">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
