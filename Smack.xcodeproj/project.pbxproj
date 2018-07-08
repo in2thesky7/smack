@@ -18,6 +18,7 @@
 		AFB3CB3520F17D9C0033BDD8 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3CB3420F17D9C0033BDD8 /* GradientView.swift */; };
 		AFB3CB3820F18B8D0033BDD8 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3CB3720F18B8D0033BDD8 /* Constants.swift */; };
 		AFB3CB3A20F190F40033BDD8 /* loginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3CB3920F190F40033BDD8 /* loginVC.swift */; };
+		AFB3CB3C20F1A0DA0033BDD8 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB3CB3B20F1A0DA0033BDD8 /* CreateAccountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		AFB3CB3420F17D9C0033BDD8 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		AFB3CB3720F18B8D0033BDD8 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AFB3CB3920F190F40033BDD8 /* loginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginVC.swift; sourceTree = "<group>"; };
+		AFB3CB3B20F1A0DA0033BDD8 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		C2C04D35DCA1334836CC6F0C /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -67,6 +69,7 @@
 				AF22806220F16F2500927FBE /* ChatVCViewController.swift */,
 				AF22806420F16F4A00927FBE /* ChannelVC.swift */,
 				AFB3CB3920F190F40033BDD8 /* loginVC.swift */,
+				AFB3CB3B20F1A0DA0033BDD8 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				AF22806520F16F4A00927FBE /* ChannelVC.swift in Sources */,
 				AF30EA4120F1526100DA4D12 /* AppDelegate.swift in Sources */,
+				AFB3CB3C20F1A0DA0033BDD8 /* CreateAccountVC.swift in Sources */,
 				AFB3CB3520F17D9C0033BDD8 /* GradientView.swift in Sources */,
 				AFB3CB3A20F190F40033BDD8 /* loginVC.swift in Sources */,
 				AF22806320F16F2500927FBE /* ChatVCViewController.swift in Sources */,
